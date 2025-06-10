@@ -12,10 +12,6 @@ This repository contains code for training 1D, 2D, and 3D Convolutional Neural N
 ├── feature_extraction.py  # Extract features from raw DEAP data
 ├── models.py              # CNN model definitions
 ├── pipeline.py            # Training pipeline class (training + evaluation + plotting)
-├── train_data.npy         # Preprocessed training features
-├── train_label.npy        # One-hot encoded training labels
-├── test_data.npy          # Preprocessed testing features
-├── test_label.npy         # One-hot encoded testing labels
 └── README.md              # This file
 ```
 
